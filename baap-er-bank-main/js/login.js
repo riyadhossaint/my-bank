@@ -10,7 +10,7 @@ document.getElementById('login-submit').addEventListener('click', function () {
         window.location.href = 'banking.html';
     }
     else{
-        alert('your entered email or password is invalid');
+        alert('your entered email or password is incorrect');
     }
 });
 
